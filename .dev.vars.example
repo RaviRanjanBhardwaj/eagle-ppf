@@ -1,0 +1,6 @@
+# Cloudflare local dev ke liye (npx wrangler pages dev .)
+# Ye file .dev.vars naam se copy karo. .dev.vars git me nahi jayegi.
+RESEND_API_KEY=re_your_key_here
+MAIL_TO=Eagleppf@gmail.com
+MAIL_FROM=Eagle PPF Website <website@your-domain.com>
+# TURNSTILE_SECRET=optional
